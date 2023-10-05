@@ -1,0 +1,19 @@
+.boxes {
+    background-color: bisque;
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    display: inline-block;
+}
+
+.end {
+    color: red;
+}
+
+#second {
+    color: green;
+}
+
+div {
+    font-weight: bold;
+}
